@@ -1,5 +1,5 @@
 {
-  "name": "7-os",
+  "name": "06-url",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "url": "^0.11.4"
+  }
 }
